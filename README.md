@@ -33,7 +33,7 @@ node app.js
 ```
 5. Navigate to the `Frontend-React` directory in a new terminal window:
 ```
-cd ../react-frontend
+cd ../frontend-react
 ```
 6. Install the required packages for the frontend:
 ```
@@ -45,7 +45,7 @@ npm start
 ```
 
 ## Usage
-After starting both the backend and frontend, open your web browser and navigate to `http://localhost:3000` to access the Library Management System.
+After starting both the backend and frontend, open your web browser and navigate to `http://localhost:3000` to access the LMS - Library Management System.
 
 
 ## License
