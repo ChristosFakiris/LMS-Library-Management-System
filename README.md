@@ -50,3 +50,5 @@ After starting both the backend and frontend, open your web browser and navigate
 
 ## License
 This project is licensed under the MIT License.
+![Screenshot_1](https://github.com/user-attachments/assets/3d3b8eb2-2c54-4170-8f76-51324f282c05)
+
