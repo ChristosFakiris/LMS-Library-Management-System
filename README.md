@@ -50,8 +50,6 @@ npm start
 After starting both the backend and frontend, open your web browser and navigate to `http://localhost:3000` to access the LMS - Library Management System.
 
 
-## License
-This project is licensed under the MIT License.
 ![Screenshot_6](https://github.com/user-attachments/assets/de62a961-e5d9-4aac-af5f-1b415cbafeb8)
 
 ![Screenshot_7](https://github.com/user-attachments/assets/62918780-1390-42ce-b39b-e8a67079ef45)
@@ -63,6 +61,8 @@ This project is licensed under the MIT License.
 ![Screenshot_4](https://github.com/user-attachments/assets/fa14c461-98e2-46c7-818f-8f7d5ef42abc)
 ![Screenshot_5](https://github.com/user-attachments/assets/8669d8de-8473-49f6-9fd7-4c8856b3067c)
 
+## License
+This project is licensed under the MIT License.
 
 
 
