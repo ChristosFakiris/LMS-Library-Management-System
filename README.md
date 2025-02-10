@@ -50,6 +50,3 @@ After starting both the backend and frontend, open your web browser and navigate
 
 ## License
 This project is licensed under the MIT License.
-
-"# LMS-Library-Management-System" 
-
