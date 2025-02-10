@@ -13,6 +13,7 @@ This project is a full-stack Library Management System that facilitates the mana
 ### Prerequisites
 - Node.js
 - npm (Node Package Manager)
+- MongoDB
 
 ### Installation
 1. Clone the repository:
