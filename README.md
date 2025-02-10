@@ -14,6 +14,7 @@ This project is a full-stack Library Management System that facilitates the mana
 - Node.js
 - npm (Node Package Manager)
 - MongoDB
+- Postman
 
 ### Installation
 1. Clone the repository:
